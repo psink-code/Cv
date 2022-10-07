@@ -1,0 +1,13 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import './masthead.css';
+@import './card.css';
+@import './servizzi.css';
+@import './navbar.css';
+@import './personale.css';
+@import './contatti.css';
+@import 'bootstrap-icons/font/bootstrap-icons';
+@import './form-personale';
+@import './button.css';
+@import './nav-privata.css';
+@import './tabelleAreaPrivata.css';
+

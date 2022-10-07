@@ -1,0 +1,16 @@
+.contatti{
+    height: 63vh;
+    /* width: 103vh; */
+    background-image: url('img/3.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* .min-c{
+    height: min;
+} */
+@media screen and (max-width: 768px) {
+    .contatti{
+        display: none;
+    }
+}
